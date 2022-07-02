@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Abdullah.
 #### I am working on game development.
-![I am working on game development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am working on game development.]
 
 
 I like to use computer. I use the internet well. I have embraced lifelong learning.
