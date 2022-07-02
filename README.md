@@ -7,7 +7,7 @@ I like to use computer. I use the internet well. I have embraced lifelong learni
 
 Skills: C# / PYTHON / Cyber Security/ HTML / CSS / Dart /  Unity /
 
-- 🔭 I’m currently working on this page. 
+
 - 🌱 I’m currently learning  Game development with unity. 
 - 📫 How to reach me: I left the link below. 
 
