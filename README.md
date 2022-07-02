@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Abdullah.
+### Hi👋, My name is Abdullah.
 #### I am working on game development.
 ![I am working on game development.]
 
