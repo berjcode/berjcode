@@ -5,7 +5,7 @@
 
 I like to use computer. I use the internet well. I have embraced lifelong learning.
 
-Skills: C# / PYTHON / Cyber Security/ HTML / CSS / Dart /  Unity /
+Skills: C# / PYTHON / HTML / CSS / Dart /  Unity /
 
 
 - 🌱 I’m currently learning  Game development with unity. 
