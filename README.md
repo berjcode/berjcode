@@ -1,20 +1,10 @@
 
-
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Abdullah, I am improving myself in the backend area. I like to deal with different technologies.</div>  
   
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
-
 
 ### Frontend  
 <div align="center">  
@@ -24,7 +14,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
 
 
 ### Backend  
@@ -51,7 +40,6 @@
 
 <br/>  
 
-
 ## Connect with me  
 <div align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdullahblk/" target="_blank">
@@ -66,15 +54,7 @@
 </div>  
   
 
-<br/>  
-
-
-
-<br/>  
-
-  
-
-<br/>  
+</br> 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=berjcode&&style=flat-square" align="center" />
