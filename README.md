@@ -1,48 +1,24 @@
 
-### <div align="center">I'm Abdullah, I am improving myself in the backend area. I like to deal with different technologies.</div>  
-  
+### Eng
+<div align="center">I'm Abdullah, developing myself in the backend area. I like dealing with different technologies. I also work on the front-end side of projects. I just upload my projects.
+
+</div>  
+<br/>
+  ### Tr
+<div align="center">Ben Abdullah, backend alanında kendimi geliştiriyorum. Farklı teknolojilerle uğraşmayı seviyorum. Ayrıca projelerin front-end tarafında da çalışıyorum. Sadece projelerimi yüklüyorum.
+
+</div> 
 <br/>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
 
-### Frontend  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/180px-CSS3_logo_and_wordmark.svg.png" alt="HTML5" height="50" /></a> 
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc2Y2gmQB5zuaBd1AfN_AyEgoTgxPF65i7GwlvrbnnP_RUlubieG19WFnonCtS4ZfAox4&usqp=CAU" alt="HTML5" height="50" /></a> 
-</div>
-  
-
-</td><td valign="top" width="33%">
+.Net Core, .Net Framework, Entity Framework, Ado , Sql, 
+<br/>
+## 
+ React(basic), Angular(basic), Html, Css, Js
 
 
-### Backend  
-<div align="center">  
-
-<a href="https://dotnet.microsoft.com/download/dotnet-framework" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dot-net-original-wordmark.svg" alt=".NET" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-### Other  
-<div align="center">  
-<a href="https://unity.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/unity.png" alt="Unity" height="50" /></a>  
-
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-  <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://dce0qyjkutl4h.cloudfront.net/wp-content/uploads/2021/02/DevOps-Server-blog.jpg" alt="GitLab" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-
-<br/>  
-
+<br/>
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/abdullahblk/" target="_blank">
