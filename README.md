@@ -4,7 +4,7 @@
 
 </div>  
 <br/>
-  ### Tr
+### Tr
 <div align="center">Ben Abdullah, backend alanında kendimi geliştiriyorum. Farklı teknolojilerle uğraşmayı seviyorum. Ayrıca projelerin front-end tarafında da çalışıyorum. Sadece projelerimi yüklüyorum.
 
 </div> 
@@ -18,7 +18,7 @@
  React(basic), Angular(basic), Html, Css, Js
 
 
-<br/>
+
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/abdullahblk/" target="_blank">
@@ -33,17 +33,11 @@
 </div>  
   
 
-</br> 
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=berjcode&&style=flat-square" align="center" />
-</div>  
+
   
+ 
 
-<br/>  
-
-<div align="center"></div>
-<br />
 
 
 
