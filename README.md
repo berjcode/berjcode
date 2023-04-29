@@ -23,7 +23,7 @@ GenericRepositoryandUnitOfWorkPattern +500 Download
 N-Layer, Clean Architecture
 
 ## Design Pattern I have experience with
-UnitOfWork, Generic Repository, Repository, DI, MVC, Builder, Mediator
+UnitOfWork, Generic Repository, Repository, DI, MVC, Builder, Mediator, Options
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/abdullahblk/" target="_blank">
