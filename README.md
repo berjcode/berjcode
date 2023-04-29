@@ -16,9 +16,14 @@
 <br/>
 ## 
  React(basic), Angular(basic), Html, Css, Js
+ <br/>
+## Nuget packages I've published
+GenericRepositoryandUnitOfWorkPattern +500 Download
+## Architectures I have experience with
+N-Layer, Clean Architecture
 
-
-
+## Design Pattern I have experience with
+UnitOfWork, Generic Repository, Repository, DI, MVC, Builder, Mediator
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/abdullahblk/" target="_blank">
