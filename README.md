@@ -20,7 +20,7 @@
 ## Nuget packages I've published
 GenericRepositoryandUnitOfWorkPattern +500 Download
 ## Architectures I have experience with
-N-Layer, Clean Architecture
+N-Layer, Clean Architecture, Multitenancy
 
 ## Design Pattern I have experience with
 UnitOfWork, Generic Repository, Repository, DI, MVC, Builder, Mediator, Options, CQRS
