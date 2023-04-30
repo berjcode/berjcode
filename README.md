@@ -1,12 +1,13 @@
 
 ### About me
-<div align="center">I'm Abdullah, developing myself in the backend area. I like dealing with different technologies. I also work on the front-end side of projects. I just upload my projects.
+<div align="center">I'm Abdullah, developing myself in the backend area. I like dealing with different technologies. I also work on the front-end side of projects. I only share my projects that contribute to the open source universe.
 
 </div>  
 <br/>
 
-<div align="center">Ben Abdullah, backend alanında kendimi geliştiriyorum. Farklı teknolojilerle uğraşmayı seviyorum. Ayrıca projelerin front-end tarafında da çalışıyorum. Sadece projelerimi yüklüyorum.
+<div align="center">Ben Abdullah, backend alanında kendimi geliştiriyorum. Farklı teknolojilerle uğraşmayı seviyorum. Ayrıca projelerin front-end tarafında da çalışıyorum. Sadece açık kaynak evrenine katkı sağlayan projelerimi paylaşıyorum. 
 
+ 
 </div> 
 <br/>  
 
