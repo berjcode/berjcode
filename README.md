@@ -25,6 +25,8 @@ N-Layer, Clean Architecture, Multitenancy
 
 ## Design Pattern I have experience with
 UnitOfWork, Generic Repository, Repository, DI, MVC, Builder, Mediator, Options, CQRS
+## Other
+Git, Gitlab, Azure DevOps Server, Unity
 ## Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/abdullahblk/" target="_blank">
