@@ -5,10 +5,7 @@
 </div>  
 <br/>
 
-<div align="center">Ben Abdullah, backend alanında kendimi geliştiriyorum. Farklı teknolojilerle uğraşmayı seviyorum. Ayrıca projelerin front-end tarafında da çalışıyorum. Sadece açık kaynak evrenine katkı sağlayan projelerimi paylaşıyorum. 
 
- 
-</div> 
 <br/>  
 
 ## My Skill Set  
