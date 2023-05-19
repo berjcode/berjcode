@@ -16,9 +16,9 @@
  React(basic), Angular(basic), Html, Css, Js
  <br/>
 ## Nuget packages I've published
-GenericRepositoryandUnitOfWorkPattern +1000 Download
+GenericRepositoryandUnitOfWorkPattern +1100 Download
 ##
-berjMapper +10
+berjMapper +50
 ## Architectures I have experience with
 N-Layer, Clean Architecture, Multitenancy
 
