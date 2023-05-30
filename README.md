@@ -18,7 +18,9 @@
 ## Nuget packages I've published
 GenericRepositoryandUnitOfWorkPattern +1100 Download
 ##
-berjMapper +50
+berjMapper +60
+##
+DecimalJsonConverterNuget +60
 ## Architectures I have experience with
 N-Layer, Clean Architecture, Multitenancy
 
